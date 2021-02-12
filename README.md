@@ -13,5 +13,7 @@
 - [x] Criar estrutura Básica do Projeto
 - [x] Escrever a estrutura base HTML
 - [x] Escrever a estrutura CSS
-- [ ] Escrever a esturtura do JavaScript
+- [x] Escrever a esturtura do JavaScript
 - [ ] Upar site em um servidor
+
+ <!-- background-image: url(https://images.unsplash.com/photo-1517299321609-52687d1bc55a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80); -->
