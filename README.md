@@ -10,8 +10,8 @@
 
 ### TO DO'S LIST:
 
-- [ ] Criar estrutura Básica do Projeto
-- [ ] Escrever a estrutura base HTML
-- [ ] Escrever a estrutura CSS
+- [x] Criar estrutura Básica do Projeto
+- [x] Escrever a estrutura base HTML
+- [x] Escrever a estrutura CSS
 - [ ] Escrever a esturtura do JavaScript
 - [ ] Upar site em um servidor
