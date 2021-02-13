@@ -24,7 +24,7 @@ function countdown() {
   //   console.log(hoursEl);
   //   console.log(minutesEl);
   //   console.log(secondsEl);
-  console.log(dias, horas, minutes, segundos);
+  //   console.log(dias, horas, minutes, segundos);
 }
 
 function formatDate(time) {
