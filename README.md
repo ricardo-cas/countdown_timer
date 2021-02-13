@@ -4,6 +4,8 @@
   - [Objetivo](#objetivo)
     - [TO DO'S LIST:](#to-dos-list)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/deb778e5-f02d-429e-8989-8ebfbd124f4c/deploy-status)](https://app.netlify.com/sites/diasateoanoquevem/deploys)
+
 ## Objetivo
 
 Este projeto tem como objetivo criar uma pagina com contador de dias horas, horas, minutos e segundos para o Ano Novo
