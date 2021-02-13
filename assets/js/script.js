@@ -24,12 +24,6 @@ function countdown() {
   hoursEl.innerHTML = formatDate(horas);
   minutesEl.innerHTML = formatDate(minutes);
   secondsEl.innerHTML = formatDate(segundos);
-
-  //   console.log(daysEl);
-  //   console.log(hoursEl);
-  //   console.log(minutesEl);
-  //   console.log(secondsEl);
-  // console.log(dias, horas, minutes, segundos);
 }
 
 function formatDate(time) {
