@@ -2,7 +2,12 @@ const daysEl = document.getElementById("dias");
 const hoursEl = document.getElementById("horas");
 const minutesEl = document.getElementById("minutos");
 const secondsEl = document.getElementById("segundos");
-const dataAlvo = "1 Jan 2022 00:00:00";
+
+// Defini o próximo ano, usando a função getFullYear do Date e incrementando 1
+// desta forma, não é necessário fazer update do código todo ano, ele ficará disponível sempre.
+const proximoAno = new Date().getFullYear() + 1;
+// concatenando o proximo ano à data Alvo.
+const dataAlvo = `1 Jan ${proximoAno} 00:00:00`;
 
 function countdown() {
   const data = new Date(dataAlvo);
@@ -24,7 +29,7 @@ function countdown() {
   //   console.log(hoursEl);
   //   console.log(minutesEl);
   //   console.log(secondsEl);
-  //   console.log(dias, horas, minutes, segundos);
+  // console.log(dias, horas, minutes, segundos);
 }
 
 function formatDate(time) {
