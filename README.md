@@ -16,7 +16,6 @@ Este projeto tem como objetivo criar uma pagina com contador de dias horas, hora
 - [x] Escrever a estrutura base HTML
 - [x] Escrever a estrutura CSS
 - [x] Escrever a estrutura do JavaScript
-- [x] Upar site em um servidor
-  - [x]Link(https://diasateoanoquevem.netlify.app/)
-- [ ] Criar versão mobile
+- [x] Upar site em um servidor:[Acesse ele aqui](https://diasateoanoquevem.netlify.app/)
 - [x] Automatizar para que sempre pegue o próximo ano
+- [ ] Criar versão mobile
